@@ -2,8 +2,6 @@
 
 Use [![](https://img.shields.io/badge/-snscrape-blue)](#) for scraping data hashtag #Bitcoin from twitter
 
-# CRM Analytics
+snscraping.ipynb : [snscraping.ipynb](./snscraping.ipynb/)  
 
-Homework 1 : [01_CLV_Dashborad](./01_CLV_Dashborad/)  
 
-[![](https://img.shields.io/badge/-snscrape-blue)](#) [![](https://img.shields.io/badge/-Power--BI-blue)](#) 
